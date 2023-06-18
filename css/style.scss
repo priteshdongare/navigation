@@ -1,0 +1,64 @@
+body{
+   font-size:15px;
+   box-sizing: border-box;
+}
+.heading{
+    text-align:center;
+    h4{
+        color:gray;
+        padding-top:27px;
+    }
+    h3{
+        font-weight:300;
+        font-size:1.8rem;
+    }
+    h1{
+        font-weight:600;
+        font-size:5rem;
+        letter-spacing:0.2px;
+    }
+
+}
+.mybutton{
+    width:5%;
+    height:35px;
+    border:0px solid;
+    color:#fff;
+    border-radius:25px;
+    background-color:rgb(35, 106, 238);
+}
+.mylink{
+    color:rgb(35, 106, 238);
+    font-size:2rem;
+    margin-left:20px;
+}
+.heading img{
+  margin-top:40px;
+}
+.black-background{
+    text-align:center;
+    background-color:black;
+    color:#fff;
+    width:100%;
+    height:700px;
+    padding:40px;
+    line-height:5px;
+    
+    h3{
+        font-size:2.4rem;
+        margin-top:100px;
+    }
+    h1{
+        font-size:4.7rem;
+        font-weight:600;
+    }
+    h4{
+         color:rgb(202, 202, 197);
+        font-size:2.3rem;
+    }
+}
+.black-background .img{
+    width:60%;
+    margin:0 auto;
+    margin-top:7%;
+}
